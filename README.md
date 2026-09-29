@@ -1,6 +1,6 @@
 # aoc-2025-1
 
-This is a template you can use to solve [Advent of Code | Day 1, 2025](https://adventofcode.com/2025/day/1).
+golang implimentation
 
 > [!NOTE]
 > For programming language showcases only impli part 1. As part 2 would need a whole other algo.
